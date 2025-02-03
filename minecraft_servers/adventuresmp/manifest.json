@@ -6,7 +6,10 @@
         "de"
     ],
     "social": {
-        "discord": "https://discord.gg/E7EWKugWXR"
+        "web_shop": "https://store.adventuresmp.de",
+        "discord": "https://discord.gg/adventuresmp",
+        "youtube": "https://www.youtube.com/@adventuresmpde",
+        "tiktok": "adventuresmp.de"
     },
     "gamemodes": {
         "survival": {
@@ -17,10 +20,5 @@
     "discord": {
         "server_id": 1238427052688937030,
         "rename_to_minecraft_name": false
-    },
-    "location": {
-        "city": "Frankfurt",
-        "country": "Germany",
-        "country_code": "DE"
     }
 }
